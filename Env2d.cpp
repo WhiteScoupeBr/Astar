@@ -25,6 +25,7 @@ Use the keyboard to control the movements of the 'robot':
   - key 'w' or 'W' to order the robot to "go forward";
   - key 'a' or 'A' to order the robot to "turn counterclockwise 45 degrees";
   - key 'd' or 'D' to order the robot to "turn clockwise 45 degrees";
+  Leandro so trolla
 */
 
 
